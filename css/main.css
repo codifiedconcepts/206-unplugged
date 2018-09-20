@@ -110,6 +110,10 @@ a {
  text-decoration: none;
 }
 
+.current-link {
+    color: #ff1256;
+}
+
 p {
  font-size: 1em;
  line-height: 1.4;
